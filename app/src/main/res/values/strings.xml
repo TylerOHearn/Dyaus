@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dyaus</string>
+    <string name="error_message">Weather unavailable. Use nearest window.</string>
+</resources>
