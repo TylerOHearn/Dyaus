@@ -21,6 +21,8 @@ Written in [Kotlin](https://kotlinlang.org/) using [MVVM](https://medium.com/swl
 * Needed to get an icon matching the weather conditions for the current zip code
 * Bonus points for MVVM architecture
 
+
+![Phone_Night](Screenshots/Screenshot_Phone_Day.png)
 ![Phone_Night](Screenshots/Screenshot_Phone_Night.png)
 
 
